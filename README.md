@@ -5,11 +5,11 @@ This project is a barebones OS for Raspberry Pi 2 Model B (and possibly others).
 
 ## Installation
 
-1. TODO
+1. Install [GNU ARM Embedded Toolchain](https://launchpad.net/~terry.guo/+archive/ubuntu/gcc-arm-embedded)
 
 ## Usage
 
-1. TODO
+1. Run the build script to build the kernel image: `bash build.sh`
 
 ## Contributing
 

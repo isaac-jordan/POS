@@ -1,0 +1,4 @@
+#OS Dev
+- http://wiki.osdev.org/Raspberry_Pi_Bare_Bones
+
+- http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/

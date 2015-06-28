@@ -1,0 +1,5 @@
+kernel/init.disassembled.asm
+kernel/init.o
+kernel/kernel.disassembled.asm
+kernel/kernel.elf
+boot/kernel.img
