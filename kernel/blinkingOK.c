@@ -1,4 +1,3 @@
-//part-1/armc-02
 /*
     Part of the Raspberry-Pi Bare Metal Tutorials
     Copyright (c) 2013, Brian Sidebotham
@@ -97,6 +96,7 @@ volatile unsigned int* gpio;
 volatile unsigned int tim;
 
 /** Main function - we'll never return from here */
+int main(void) __attribute__((naked));
 int main(void)
 {
     /* Assign the address of the GPIO peripheral (Using ARM Physical Address) */

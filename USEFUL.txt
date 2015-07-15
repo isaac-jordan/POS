@@ -4,3 +4,5 @@
 - https://rpidev.wordpress.com/
 - http://www.valvers.com/open-software/raspberry-pi/creating-a-bootable-sd-card/
 - http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/
+
+- https://github.com/BrianSidebotham/arm-tutorial-rpi/issues/2
